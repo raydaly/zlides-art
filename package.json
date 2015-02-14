@@ -1,0 +1,28 @@
+{
+  "name": "zlides-art",
+  "version": "0.0.1",
+  "description": "Art project: mobile phone collaboration on large, public screens",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raydaly/zlides-art.git"
+  },
+  "keywords": [
+    "art",
+    "zlides",
+    "ice",
+    "skating"
+  ],
+  "author": "Ray Daly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raydaly/zlides-art/issues"
+  },
+  "homepage": "https://github.com/raydaly/zlides-art",
+  "dependencies": {
+    "hapi": "^8.2.0"
+  }
+}
